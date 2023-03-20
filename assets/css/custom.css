@@ -19,9 +19,14 @@
 }
 
 .slogan {
-    /*background: rgb(55,81,126);
-    background: linear-gradient(90deg, rgba(55,81,126,0.7315301120448179) 0%, rgba(55,81,126,0.3477766106442577) 60%, rgba(69,89,124,0.01724439775910369) 100%);
-*/}
+    background-color: #37517e;
+    padding: 2em !important;
+    background: -webkit-linear-gradient(left, #37517e, #88a2d0);
+    background: -moz-linear-gradient(left, #37517e, #88a2d0);
+    background: -ms-linear-gradient(left, #37517e, #88a2d0);
+    background: -o-linear-gradient(left, #37517e, #88a2d0);
+    background: linear-gradient(to right, #37517efa, #46629300);
+}
 
 .aos-animate {
     /*transition: backgraound-color .2s;
