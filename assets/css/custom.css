@@ -1,0 +1,29 @@
+#header {
+    background: #37517e;
+}
+
+#header .logo {
+    background-color: #314a7463;
+}
+
+#hero .animated {
+    display: none;
+}
+
+#hero {
+    background: #37517e;
+    background-image: url(../img/sofa-banner-1200x800.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: bottom;
+}
+
+.slogan {
+    /*background: rgb(55,81,126);
+    background: linear-gradient(90deg, rgba(55,81,126,0.7315301120448179) 0%, rgba(55,81,126,0.3477766106442577) 60%, rgba(69,89,124,0.01724439775910369) 100%);
+*/}
+
+.aos-animate {
+    /*transition: backgraound-color .2s;
+    background-color:#37517e8f*/
+}
